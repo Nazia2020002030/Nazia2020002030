@@ -1,7 +1,5 @@
 ### Hi , I'm Nazia
-<img src="https://media0.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=790b76110819ac3351aa8299139082e6521561bc719bc1ce&rid=giphy.gif&ct=g" height=90% width=55% align="right">
-
-*Getting ahead with each step!!*
+<img src="https://giphy.com/gifs/scaler-official-funny-cartoon-coding-HLB0nLA36GCCo6JuB5" height=90% width=55% align="right">
 
 About Me -
 <ul>
