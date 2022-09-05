@@ -1,5 +1,5 @@
 ### Hi , I'm Nazia
-<img src="https://giphy.com/gifs/scaler-official-funny-cartoon-coding-HLB0nLA36GCCo6JuB5" height=90% width=55% align="right">
+
 
 About Me -
 <ul>
